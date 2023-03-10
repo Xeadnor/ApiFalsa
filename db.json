@@ -1,0 +1,241 @@
+{
+  "galeria":[
+    {
+      "camisetas": [
+        {
+          "id": 1,
+          "nombre": "Camiseta Browser Mario Bros",
+          "categoría": "Gaming",
+          "precio":19.99,
+          "imagenURL":"img/CamisetaVerde.png"
+        },
+        {
+          "id": 2,
+          "nombre": "Camiseta Marvel Comics Retro",
+          "categoría": "MARVEL",
+          "precio":15.99,
+          "imagenURL":"img/camisetaAzul.jpg"
+        },
+        {
+          "id": 3,
+          "nombre": "Camiseta símbolo Batman",
+          "categoría": "DC",
+          "precio":20.99,
+          "imagenURL":"img/camiseta_batman.jpg"
+        },
+        {
+          "id": 4,
+          "nombre": "Camiseta Suicide Squad",
+          "categoría": "DC",
+          "precio":19.99,
+          "imagenURL":"img/camiseta_suicide_squad.jpg"
+        },
+        {
+          "id": 5,
+          "nombre": "Camiseta Superman",
+          "categoría": "DC",
+          "precio":18.99,
+          "imagenURL":"img/camiseta-superman.jpg"
+        },
+        {
+          "id": 6,
+          "nombre": "Camiseta Alianza World of Warcraft",
+          "categoría": "Gaming",
+          "precio":21.99,
+          "imagenURL":"img/camiseta-alianza-warcraft.jpg"
+        },
+        {
+          "id": 7,
+          "nombre": "Camiseta Rick y Morty Calavera",
+          "categoría": "cineSeries",
+          "precio":19.99,
+          "imagenURL":"img/camiseta-rick-y-morty-skull.jpg"
+        },
+        {
+          "id": 8,
+          "nombre": "Camiseta Elementos Zelda",
+          "categoría": "Gaming",
+          "precio":19.99,
+          "imagenURL":"img/zelda.jpg"
+        },
+        {
+          "id": 9,
+          "nombre": "Camiseta Nintendo Nes",
+          "categoría": "Gaming",
+          "precio":23.99,
+          "imagenURL":"img/camiseta-nintendo-nes.jpg"
+        },
+        {
+          "id": 10,
+          "nombre": "Camiseta Hulk",
+          "categoría": "MARVEL",
+          "precio":18.99,
+          "imagenURL":"img/camiseta-hulk.jpg"
+        },
+        {
+          "id": 11,
+          "nombre": "Camiseta DJ Yoda",
+          "categoría": "cineSeries",
+          "precio":18.99,
+          "imagenURL":"img/camiseta-yoda.jpg"
+        },
+        {
+          "id": 12,
+          "nombre": "Camiseta Wakanda Forever",
+          "categoría": "MARVEL",
+          "precio":22.99,
+          "imagenURL":"img/camiseta-wakanda.jpg"
+        },
+        {
+          "id": 13,
+          "nombre": "Camiseta Casa Lannister",
+          "categoría": "cineSeries",
+          "precio":20.99,
+          "imagenURL":"img/camiseta-casa-lannister.jpg"
+        },
+        {
+          "id": 14,
+          "nombre": "Camiseta Luciérnagas The Last of Us",
+          "categoría": "Gaming",
+          "precio":18.99,
+          "imagenURL":"img/camiseta_the_last_of_us.jpg"
+        },
+        {
+          "id": 15,
+          "nombre": "Camiseta cuatro casas de Hogwarts",
+          "categoría": "cineSeries",
+          "precio":19.99,
+          "imagenURL":"img/camiseta-hogwarts.jpg"
+        },
+        {
+          "id": 16,
+          "nombre": "Camiseta Central Perk",
+          "categoría": "cineSeries",
+          "precio":19.99,
+          "imagenURL":"img/camiseta-central-perk.jpg"
+        }
+  
+  
+      ],
+  
+      "categorias": [
+          {
+            "MARVEL":[{
+              "id": 2,
+              "nombre": "Camiseta Marvel Comics Retro",
+              "categoría": "MARVEL",
+              "precio":15.99,
+              "imagenURL":"img/camisetaAzul.jpg"
+            },
+            {
+              "id": 10,
+              "nombre": "Camiseta Hulk",
+              "categoría": "MARVEL",
+              "precio":18.99,
+              "imagenURL":"img/camiseta-hulk.jpg"
+            },
+            {
+              "id": 12,
+              "nombre": "Camiseta Wakanda Forever",
+              "categoría": "MARVEL",
+              "precio":22.99,
+              "imagenURL":"img/camiseta-wakanda.jpg"
+            }
+            ],
+            "DC":[{
+              "id": 3,
+              "nombre": "Camiseta símbolo Batman",
+              "categoría": "DC",
+              "precio":20.99,
+              "imagenURL":"img/camiseta_batman.jpg"
+            },
+            {
+              "id": 4,
+              "nombre": "Camiseta Suicide Squad",
+              "categoría": "DC",
+              "precio":19.99,
+              "imagenURL":"img/camiseta_suicide_squad.jpg"
+            },
+            {
+              "id": 5,
+              "nombre": "Camiseta Superman",
+              "categoría": "DC",
+              "precio":18.99,
+              "imagenURL":"img/camiseta-superman.jpg"
+            }
+            ],
+            "Gaming":[
+              {
+                "id": 1,
+                "nombre": "Camiseta Browser Mario Bros",
+                "categoría": "Gaming",
+                "precio":19.99,
+                "imagenURL":"img/CamisetaVerde.png"
+              },
+              {
+                "id": 8,
+                "nombre": "Camiseta Elementos Zelda",
+                "categoría": "Gaming",
+                "precio":19.99,
+                "imagenURL":"img/zelda.jpg"
+              },
+              {
+                "id": 9,
+                "nombre": "Camiseta Nintendo Nes",
+                "categoría": "Gaming",
+                "precio":23.99,
+                "imagenURL":"img/camiseta-nintendo-nes.jpg"
+              },
+              {
+                "id": 14,
+                "nombre": "Camiseta Luciérnagas The Last of Us",
+                "categoría": "Gaming",
+                "precio":18.99,
+                "imagenURL":"img/camiseta_the_last_of_us.jpg"
+              }
+            ],
+            "cineSeries":[
+              {
+                "id": 7,
+                "nombre": "Camiseta Rick y Morty Calavera",
+                "categoría": "cineSeries",
+                "precio":19.99,
+                "imagenURL":"img/camiseta-rick-y-morty-skull.jpg"
+              },
+              {
+                "id": 11,
+                "nombre": "Camiseta DJ Yoda",
+                "categoría": "cineSeries",
+                "precio":18.99,
+                "imagenURL":"img/camiseta-yoda.jpg"
+              },
+              {
+                "id": 13,
+                "nombre": "Camiseta Casa Lannister",
+                "categoría": "cineSeries",
+                "precio":20.99,
+                "imagenURL":"img/camiseta-casa-lannister.jpg"
+              },
+              {
+                "id": 15,
+                "nombre": "Camiseta cuatro casas de Hogwarts",
+                "categoría": "cineSeries",
+                "precio":19.99,
+                "imagenURL":"img/camiseta-hogwarts.jpg"
+              },
+              {
+                "id": 16,
+                "nombre": "Camiseta Central Perk",
+                "categoría": "cineSeries",
+                "precio":19.99,
+                "imagenURL":"img/camiseta-central-perk.jpg"
+              }
+            ]
+          }
+         
+      ],
+      "masVendidos": [     
+      ]
+    }
+  ]
+  }
